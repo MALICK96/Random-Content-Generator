@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+.heading {
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color: rgba(45, 45, 45, 0.1);
+    position: relative;
+    bottom: 15px;
+
+}
+.wrapper {
+    width: 50%;
+    height: 90%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 5px 10px 25px 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    border-radius: 15px;
+}
+
+#quotes {
+    position: relative;
+    bottom: 15px;
+}
