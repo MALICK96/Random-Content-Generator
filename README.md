@@ -1,0 +1,1 @@
+This Project uses a Javscript Math Object to Generate Random Content on the page repeatedly at a specify interval of time.
